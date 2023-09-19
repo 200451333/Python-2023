@@ -1,4 +1,4 @@
-# Defie the variables
+# Define the variables
 a = 5
 b = 3
 c = 10
